@@ -1,7 +1,4 @@
 <p align="center">
-  <img src="banner-roxo-2.png" width="100%" alt="Ludmilla Vitória | Automação, Inteligência Artificial e Agentes de IA">
-</p>
-<div align="center">
 
 [![Português](https://img.shields.io/badge/🇧🇷_Português-9333EA?style=for-the-badge)](README.md)
 [![English](https://img.shields.io/badge/🇺🇸_English-9333EA?style=for-the-badge)](README-EN.md)
